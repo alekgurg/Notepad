@@ -3,10 +3,10 @@ package notebookExample;
 import asg.cliche.Command;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 /**
  * Created by alekgurg on 09.05.2017.
+ * bla bla bla
  */
 public class Notebook {
 
